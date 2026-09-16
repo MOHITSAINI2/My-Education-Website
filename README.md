@@ -1,4 +1,4 @@
-# My-Education-Website
+# https://mohitsaini.github.io/education-mandha-mohit/
 <!DOCTYPE html>
 <html lang="en">
 <head>
